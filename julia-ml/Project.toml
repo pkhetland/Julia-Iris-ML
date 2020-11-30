@@ -1,0 +1,11 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+LIBSVM = "b1bec4e5-fd48-53fe-b0cb-9723c09d164b"
+Lathe = "38d8eb38-e7b1-11e9-0012-376b6c802672"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+MLJModels = "d491faf4-2d78-11e9-2867-c94bc002c0b7"
+ScikitLearn = "3646fa90-6ef7-5e7e-9f22-8aca16db6324"
+StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
